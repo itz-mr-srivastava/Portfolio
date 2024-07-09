@@ -1,0 +1,17 @@
+/* About.css */
+
+#about {
+    padding: 50px 20px;
+    background-color: transparent; /* Transparent to show the global background */
+  }
+  
+  #about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 1em;
+    color: #333;
+  }
+  
